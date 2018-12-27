@@ -60,6 +60,7 @@ plt.show()
 
 
 
+
 print()
 print('Выборочное среднее:')
 print(sum(rnd) / len(rnd))
